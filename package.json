@@ -1,0 +1,21 @@
+{
+  "name": "auto-script",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "async": "*",
+    "lei-stream": "*",
+    "crypto": "*"
+  },
+  "keywords": [
+    "auto",
+    "script"
+  ],
+  "author": "huanghuazhu",
+  "license": "ISC",
+  "description": ""
+}
